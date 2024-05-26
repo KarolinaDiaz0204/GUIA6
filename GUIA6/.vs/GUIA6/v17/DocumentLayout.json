@@ -1,0 +1,139 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\USER\\source\\repos\\GUIA6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\reparacionfrenos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\cambioaceite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\servicio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\moto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\coche.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|c:\\users\\user\\source\\repos\\guia6\\guia6\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{32A5AFC1-40E3-4C2D-AF8A-FBC9697BD52F}|GUIA6\\GUIA6.csproj|solutionrelative:guia6\\vehiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Servicio.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Servicio.cs",
+              "RelativeDocumentMoniker": "GUIA6\\Servicio.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Servicio.cs",
+              "RelativeToolTip": "GUIA6\\Servicio.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:24:46.915Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CambioAceite.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\CambioAceite.cs",
+              "RelativeDocumentMoniker": "GUIA6\\CambioAceite.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\CambioAceite.cs",
+              "RelativeToolTip": "GUIA6\\CambioAceite.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:28:54.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReparacionFrenos.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\ReparacionFrenos.cs",
+              "RelativeDocumentMoniker": "GUIA6\\ReparacionFrenos.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\ReparacionFrenos.cs",
+              "RelativeToolTip": "GUIA6\\ReparacionFrenos.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T15:40:49.824Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Vehiculo.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Vehiculo.cs",
+              "RelativeDocumentMoniker": "GUIA6\\Vehiculo.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Vehiculo.cs",
+              "RelativeToolTip": "GUIA6\\Vehiculo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:33:18.583Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Coche.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Coche.cs",
+              "RelativeDocumentMoniker": "GUIA6\\Coche.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Coche.cs",
+              "RelativeToolTip": "GUIA6\\Coche.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:31:59.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Moto.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Moto.cs",
+              "RelativeDocumentMoniker": "GUIA6\\Moto.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Moto.cs",
+              "RelativeToolTip": "GUIA6\\Moto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:32:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Program.cs",
+              "RelativeDocumentMoniker": "GUIA6\\Program.cs",
+              "ToolTip": "C:\\Users\\USER\\source\\repos\\GUIA6\\GUIA6\\Program.cs",
+              "RelativeToolTip": "GUIA6\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAgwCQAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-26T12:26:10.308Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
