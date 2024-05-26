@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("GUIA6")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7c901343f59f71876087269297cec98f6e1d02a2")]
 [assembly: System.Reflection.AssemblyProductAttribute("GUIA6")]
 [assembly: System.Reflection.AssemblyTitleAttribute("GUIA6")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

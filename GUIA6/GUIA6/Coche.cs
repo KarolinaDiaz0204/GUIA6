@@ -15,6 +15,13 @@ namespace GUIA6
             return 150.0;//Costo del mantenimiento del coche
         }
 
+        // Método para calcular el tiempo total de los servicios para un coche
+        public override double CalcularTiempoTotalServicios()
+        {
+            // Suma del tiempo base más el tiempo adicional para los servicios específicos de un coche
+            return base.CalcularTiempoTotalServicios() + 1.5; 
+        }
+
         //Ocultamiento del método Lavar.
         public new void Lavar()
         {

@@ -11,10 +11,12 @@ namespace GUIA6
             Vehiculo miCoche = new Coche();
             miCoche.RealizarMantenimiento(); //Output: Realizando mantenimiento del coche: Cambio de aceite y revisión de frenos
             Console.WriteLine("Costo del mantenimiento del coche: $" + miCoche.ObtenerCostoMantenimiento());
+            Console.WriteLine("Tiempo total de los servicios del coche: " + miCoche.CalcularTiempoTotalServicios() + " horas");
 
             Vehiculo miMoto = new Moto();
             miMoto.RealizarMantenimiento(); //Output: Realizando mantenimiento de la moto: Lubricador de cadena y revisión de neumáticos
             Console.WriteLine("Costo del mantenimiento del coche: $" + miCoche.ObtenerCostoMantenimiento());
+            Console.WriteLine("Tiempo total de los servicios de la moto: " + miMoto.CalcularTiempoTotalServicios() + " horas");
 
             miCoche.Lavar(); // Output: Lavando el vehículo
 

@@ -12,3 +12,18 @@ C:\Users\USER\source\repos\GUIA6\GUIA6\obj\Debug\net8.0\refint\GUIA6.dll
 C:\Users\USER\source\repos\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.pdb
 C:\Users\USER\source\repos\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.genruntimeconfig.cache
 C:\Users\USER\source\repos\GUIA6\GUIA6\obj\Debug\net8.0\ref\GUIA6.dll
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.AssemblyInfoInputs.cache
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.AssemblyInfo.cs
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.sourcelink.json
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.dll
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\refint\GUIA6.dll
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.pdb
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\bin\Debug\net8.0\GUIA6.exe
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\bin\Debug\net8.0\GUIA6.deps.json
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\bin\Debug\net8.0\GUIA6.runtimeconfig.json
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\bin\Debug\net8.0\GUIA6.dll
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\bin\Debug\net8.0\GUIA6.pdb
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\GUIA6.genruntimeconfig.cache
+C:\Users\USER\Desktop\Karolina D\GUIA6\GUIA6\GUIA6\obj\Debug\net8.0\ref\GUIA6.dll
